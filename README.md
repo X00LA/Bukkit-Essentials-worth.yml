@@ -19,4 +19,4 @@ We can talk about! ;-)
 
 Download it here:
 
-https://gist.github.com/X00LA/8908178
+http://adf.ly/dMLos
