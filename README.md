@@ -16,3 +16,7 @@ Install
 Note: This file is only for Vanilla-Servers. No other Mods or Plugins added.
 If you need more items/blocks in the file, feel free to create a ticket.
 We can talk about! ;-)
+
+Download it here:
+
+https://gist.github.com/X00LA/8908178
