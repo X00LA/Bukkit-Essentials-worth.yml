@@ -19,4 +19,9 @@ We can talk about! ;-)
 
 Download it here:
 
-http://adf.ly/dMLos
+FILE OUTDATED!!!!
+NEW VERSION UPDATED BY Squawkers13 HERE:
+
+https://gist.github.com/Squawkers13/a0b12749bc16d5d32168
+
+ALL CREDITS GOE'S TO HIM!
