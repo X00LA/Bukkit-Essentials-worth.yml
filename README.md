@@ -19,9 +19,16 @@ We can talk about! ;-)
 
 Download it here:
 
-FILE OUTDATED!!!!
-NEW VERSION UPDATED BY Squawkers13 HERE:
+Version for MC 1.7.x by me:
+
+https://gist.github.com/X00LA/8908178
+
+Version for MC 1.8.x by Squawkers13 here:
 
 https://gist.github.com/Squawkers13/a0b12749bc16d5d32168
 
-ALL CREDITS GOE'S TO HIM!
+Version for MC 1.8x - 1.11.x by me
+
+https://gist.github.com/X00LA/9e975b72420b128c6b957c3f732604a2
+
+If there's any problems feel free to create a ticket.
