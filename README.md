@@ -19,16 +19,16 @@ We can talk about! ;-)
 
 Download it here:
 
-Version for MC 1.7.x by me:
+Version for MC 1.7.x (originally by me) tweaked from Squawkers13:
 
-https://gist.github.com/X00LA/8908178
+https://gist.github.com/X00LA/e728a824a0d725d06332baa64fa47f02
 
-Version for MC 1.8.x by Squawkers13 here:
-
-https://gist.github.com/Squawkers13/a0b12749bc16d5d32168
-
-Version for MC 1.8x - 1.11.x by me
+Version for MC 1.8x - 1.11.x
 
 https://gist.github.com/X00LA/9e975b72420b128c6b957c3f732604a2
+
+Version for MC 1.12.x
+
+https://gist.github.com/X00LA/5a779960bf80d659771e8254bb7f5167
 
 If there's any problems feel free to create a ticket.
