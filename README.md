@@ -33,7 +33,7 @@ https://gist.github.com/X00LA/5a779960bf80d659771e8254bb7f5167
 
 If there's any problems feel free to create a ticket.
 
-Version for MC 1.13.x - 1.16.x by vinyldarkscratch
+Version for MC 1.13.x - 1.16.x by Vinyl Da.i'gyu-Kazotetsu (@queengooborg)
 
-https://gist.github.com/vinyldarkscratch/92d08120f0d6d25175f6c7a30e3ccac7
+https://gist.github.com/queengooborg/92d08120f0d6d25175f6c7a30e3ccac7
 
